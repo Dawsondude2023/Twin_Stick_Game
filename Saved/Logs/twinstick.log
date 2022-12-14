@@ -1858,3 +1858,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.14-19.25.47:979][266]LogModuleManager: Shutting down and abandoning module RenderCore (26)
 [2022.12.14-19.25.47:979][266]LogModuleManager: Shutting down and abandoning module Landscape (24)
 [2022.12.14-19.25.47:979][266]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.12.14-19.25.47:980][266]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.12.14-19.25.47:980][266]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.12.14-19.25.47:980][266]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.12.14-19.25.47:980][266]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.12.14-19.25.47:980][266]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.12.14-19.25.47:980][266]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.12.14-19.25.47:980][266]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.12.14-19.25.47:980][266]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.12.14-19.25.47:980][266]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.12.14-19.25.47:980][266]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.12.14-19.25.47:980][266]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.12.14-19.25.47:997][266]LogD3D11RHI: Shutdown
+[2022.12.14-19.25.47:997][266]LogD3D11RHI: CleanupD3DDevice
+[2022.12.14-19.25.48:020][266]LogExit: Exiting.
+[2022.12.14-19.25.48:027][266]Log file closed, 12/14/22 19:25:48
